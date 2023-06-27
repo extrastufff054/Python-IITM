@@ -1,4 +1,7 @@
-a, b, c, d = input()
+a= int(input("Enter a number: "))
+b= int(input("Enter a number: "))
+c= int(input("Enter a number: "))
+d= int(input("Enter a number: "))
 print(a)
 print(b)
 print(c)

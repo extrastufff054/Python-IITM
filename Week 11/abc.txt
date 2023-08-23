@@ -1,0 +1,8 @@
+Hello world!!
+This is abc.txt 
+This is second line of abc.txt
+Bottle 
+Watch 
+Smartphone
+Laptop
+Gibberish

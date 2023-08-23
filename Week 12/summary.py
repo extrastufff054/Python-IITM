@@ -26,3 +26,9 @@ print(r'C:\Users\Username\Documents')
 
 for i in range(1,6,2) :
     print(i)
+
+i = input("Enter any text :")
+if i.isalpha() :
+    print("It's a string")
+else :
+    print("It's not a string")
